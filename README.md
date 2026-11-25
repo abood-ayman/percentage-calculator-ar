@@ -1,27 +1,26 @@
-# حاسبة النسبة المئوية
+# Percentage Calculator | حاسبة النسبة المئوية
 
-ثلاث حاسبات في صفحة واحدة لكل أسئلة النسب
+Every percentage question in one page: X% of Y, X as a percentage of Y, and percentage increase or decrease. Arabic interface.
 
-**رابط الأداة (تعمل فورًا من المتصفح):** https://abood-ayman.github.io/percentage-calculator-ar/
+**Live app:** https://abood-ayman.github.io/percentage-calculator-ar/
 
-## ما الذي تقدمه؟
+![Percentage Calculator, mobile view](docs/screenshot.svg)
 
-- كم تساوي نسبة من رقم (مثال: ١٥٪ من ٢٠٠)
-- رقم يمثل كم في المئة من آخر
-- نسبة الزيادة أو النقص بين قيمتين (مفيدة للأسعار والرواتب والدرجات)
+This is a personal project, built with AI tools.
 
-## الخصوصية
+## Features
+- What is a percentage of a number (e.g. 15% of 200)
+- A number as a percentage of another
+- Percentage increase or decrease between two values (prices, salaries, grades)
 
-تعمل الأداة بالكامل داخل متصفحك (HTML/CSS/JavaScript فقط). لا يوجد خادم، ولا حسابات، ولا تتبّع، ولا تُرسل أو تُحفظ أي بيانات تدخلها خارج جهازك.
+## Privacy
+Everything runs in your browser. No data is stored or sent anywhere.
 
-## التقنية
+## Run locally
+Open `index.html` in any browser. It is a single static page with no dependencies.
 
-صفحة ثابتة واحدة بلا أي مكتبات خارجية، تعمل على الهاتف والحاسوب، وتُستضاف مجانًا عبر GitHub Pages.
+## Status
+Stable.
 
-## ملاحظة شفافية
-
-بُنيت هذه الأداة بمساعدة أدوات ذكاء اصطناعي، ورُوعيَت بساطتها وفائدتها المباشرة.
-
-## الرخصة
-
-MIT — انظر ملف LICENSE.
+## Copyright
+MIT License - Copyright (c) 2026 Abdullah Ayman.
