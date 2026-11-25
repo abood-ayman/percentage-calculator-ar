@@ -4,6 +4,8 @@ Every percentage question in one page: X% of Y, X as a percentage of Y, and perc
 
 **Live app:** https://abood-ayman.github.io/percentage-calculator-ar/
 
+**LinkedIn:** [Project entry](https://www.linkedin.com/in/abdullah-ayman-1678b737b/details/projects/)
+
 ![Percentage Calculator, mobile view](docs/screenshot.svg)
 
 This is a personal project, built with AI tools.
